@@ -22,7 +22,7 @@ To run this project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/maheera421/starbucks-delivery-optimization.git
+   git clone https://github.com/maheera421/Starbucks-Delivery-Route-Optimization.git
    ```
 
 2. **Install the required dependencies:**
